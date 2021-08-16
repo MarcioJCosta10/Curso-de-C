@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1611517538 source:c:\users\usuario\desktop\resumo c 1\109 ponto flutuante padrão ieee754\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+
