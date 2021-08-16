@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1611002718 source:c:\users\usuario\desktop\resumo c 1\aula 2 modularização e tad\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Ponto.h"
+
+1610999998 c:\users\usuario\desktop\resumo c 1\aula 2 modularização e tad\ponto.h
+

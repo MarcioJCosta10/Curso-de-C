@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1612566892 source:c:\users\usuario\desktop\resumo c 1\aula 5 lista 03\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaSequencial.h"
+
+1612565375 c:\users\usuario\desktop\resumo c 1\aula 5 lista 03\listasequencial.h
+
