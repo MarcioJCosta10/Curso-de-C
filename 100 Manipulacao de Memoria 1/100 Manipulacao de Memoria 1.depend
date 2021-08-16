@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1609621262 source:c:\users\usuario\desktop\resumo c 1\100 manipulacao de memoria 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
